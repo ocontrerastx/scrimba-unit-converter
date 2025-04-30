@@ -2,6 +2,7 @@ body {
     margin: 0;
     box-sizing: border-box;
     font-family: Inter;
+    background-color: #F4F4F4;
 }
 
 #main {
@@ -44,4 +45,20 @@ h1 {
     border: none;
     border-radius: 5px;
     font-weight: 500;
+}
+
+#unit-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.unit-card {
+    width: 500px;
+    height: 108px;
+    background-color: white;
+    color: #5A537B;
+    margin-top: 25px;
+    border-radius: 5px;
+    text-align: center;
 }
