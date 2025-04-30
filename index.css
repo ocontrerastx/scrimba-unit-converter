@@ -62,3 +62,11 @@ h1 {
     border-radius: 5px;
     text-align: center;
 }
+
+.unit-card h2 {
+    margin: 30px 0 0;
+}
+
+.unit-card p {
+    margin: 10px 0 30px;
+}
