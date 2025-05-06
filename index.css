@@ -44,7 +44,12 @@ h1 {
     height: 42px;
     border: none;
     border-radius: 5px;
+    font-size: 16px;
     font-weight: 500;
+}
+
+#button-convert:active {
+    background-color: #ebebeb;
 }
 
 #unit-section {
@@ -69,4 +74,5 @@ h1 {
 
 .unit-card p {
     margin: 10px 0 30px;
+    color: #353535;
 }
